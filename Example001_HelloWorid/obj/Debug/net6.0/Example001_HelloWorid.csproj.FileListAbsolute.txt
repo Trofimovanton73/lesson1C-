@@ -1,0 +1,15 @@
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\bin\Debug\net6.0\Example001_HelloWorid.exe
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\bin\Debug\net6.0\Example001_HelloWorid.deps.json
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\bin\Debug\net6.0\Example001_HelloWorid.runtimeconfig.json
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\bin\Debug\net6.0\Example001_HelloWorid.dll
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\bin\Debug\net6.0\Example001_HelloWorid.pdb
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.csproj.AssemblyReference.cache
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.AssemblyInfoInputs.cache
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.AssemblyInfo.cs
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.csproj.CoreCompileInputs.cache
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.dll
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\refint\Example001_HelloWorid.dll
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.pdb
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\Example001_HelloWorid.genruntimeconfig.cache
+C:\Users\TrofimovAG\Desktop\Lesson1 C#\Example001_HelloWorid\obj\Debug\net6.0\ref\Example001_HelloWorid.dll
